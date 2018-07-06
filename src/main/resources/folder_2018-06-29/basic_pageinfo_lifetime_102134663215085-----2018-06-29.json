@@ -1,0 +1,27 @@
+{
+  "id" : "102134663215085",
+  "username" : "americanfunds",
+  "name" : "American Funds",
+  "fan_count" : 167983,
+  "talking_about_count" : 4324,
+  "checkins" : 28,
+  "website" : "http://americanfunds.com",
+  "link" : "https://www.facebook.com/americanfunds/",
+  "category" : "Investment Management Company",
+  "about" : "Capital Group, home of American Funds® \nCapital Group has focused on providing superior long-term results for American Funds since 1931. For more than 80 years, our goal has remained the same: to improve people’s lives through successful investing.",
+  "engagement" : {
+    "count" : 167983,
+    "social_sentence" : "167K people like this."
+  },
+  "founded" : "1931",
+  "new_like_count" : 157129,
+  "rating_count" : 0,
+  "were_here_count" : 0,
+  "location" : {
+    "city" : "Los Angeles",
+    "country" : "United States",
+    "latitude" : 31.952599195997,
+    "longitude" : -115.31031131744,
+    "state" : "CA"
+  }
+}

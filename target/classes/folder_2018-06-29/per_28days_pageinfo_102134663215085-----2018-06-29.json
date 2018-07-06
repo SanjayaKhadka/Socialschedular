@@ -1,0 +1,34 @@
+{
+  "data" : [ {
+    "name" : "page_impressions",
+    "period" : "days_28",
+    "values" : [ {
+      "value" : 20336886,
+      "end_time" : "2018-06-26T07:00:00+0000"
+    }, {
+      "value" : 20702445,
+      "end_time" : "2018-06-27T07:00:00+0000"
+    } ],
+    "title" : "28 Days Total Impressions",
+    "description" : "28 Days: The number of times any content from your Page or about your Page entered a person's screen. This includes posts, check-ins, ads, social information from people who interact with your Page and more. (Total Count)",
+    "id" : "102134663215085/insights/page_impressions/days_28"
+  }, {
+    "name" : "page_impressions_viral",
+    "period" : "days_28",
+    "values" : [ {
+      "value" : 33059,
+      "end_time" : "2018-06-26T07:00:00+0000"
+    }, {
+      "value" : 31176,
+      "end_time" : "2018-06-27T07:00:00+0000"
+    } ],
+    "title" : "28 Days Viral impressions",
+    "description" : "28 Days: The number of times any content from your Page or about your Page entered a person's screen with social information attached. Social information displays when a person's friend interacted with you Page or post. This includes when someone's friend likes or follows your Page, engages with a post, shares a photo of your Page and checks into your Page. (Total Count)",
+    "id" : "102134663215085/insights/page_impressions_viral/days_28"
+  } ],
+  "paging" : {
+    "previous" : "https://graph.facebook.com/v3.0/102134663215085/insights?access_token=EAACEdEose0cBAIawOm2eeIrkFdmjQZA8gqlzRALS4WOJprSslyDmIRrBAvTzRmjS63K1rhsne0LoTJngfe5W22A9Vbf6QVQNHem6FbgFjZAiZAKGwzp8wAaXwzMOjCUMr9ZBjtZCUWq0S6AOD7qw1yn1mnqxRfecdrzStZCTqHMPa5xhQKmYZC6hvqc1Lu2wdJQZCwTObrRNPnT9NKxOKdtj&pretty=0&metric=%5B%27page_impressions%27%2C+%27page_impressions_viral%27%5D&period=days_28&since=1529737200&until=1529910000",
+    "next" : "https://graph.facebook.com/v3.0/102134663215085/insights?access_token=EAACEdEose0cBAIawOm2eeIrkFdmjQZA8gqlzRALS4WOJprSslyDmIRrBAvTzRmjS63K1rhsne0LoTJngfe5W22A9Vbf6QVQNHem6FbgFjZAiZAKGwzp8wAaXwzMOjCUMr9ZBjtZCUWq0S6AOD7qw1yn1mnqxRfecdrzStZCTqHMPa5xhQKmYZC6hvqc1Lu2wdJQZCwTObrRNPnT9NKxOKdtj&pretty=0&metric=%5B%27page_impressions%27%2C+%27page_impressions_viral%27%5D&period=days_28&since=1530082800&until=1530255600"
+  },
+  "__debug__" : { }
+}
